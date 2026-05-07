@@ -1,2 +1,2 @@
 # TRA2026
-Supporting repository for the presentation at TRA-2026
+Responsible AI Agents in Transportation Research: Opportunities and Risks for Ethical and Impactful Innovation" at Transport Research Areana-2026
