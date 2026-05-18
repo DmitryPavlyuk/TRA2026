@@ -39,11 +39,7 @@ The [`skills/research-compliance-validator/`](skills/research-compliance-validat
 
 ---
 
-## TSI Works in Responsible AI
-
-Related research from the [Transport and Telecommunication Institute (TSI)](https://tsi.lv/):
-
-### TRA-2026 Publications
+## Referred TSI Publications
 
 - **InclusiveNet** — Framework to Personalise Mobility Solutions for Vulnerable Road Users
   [tsi.lv/projects/inclusivenet-framework-to-personalize-mobility-solutions-for-vulnerable-road-users/](https://tsi.lv/projects/inclusivenet-framework-to-personalize-mobility-solutions-for-vulnerable-road-users/)
