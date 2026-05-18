@@ -1,4 +1,4 @@
-# TRA 2026 — Responsible AI Agents in Transportation Research
+# TRA 2026: Responsible AI Agents in Transportation Research
 
 Supporting repository for the presentation:
 
