@@ -44,7 +44,6 @@ The [`skills/research-compliance-validator/`](skills/research-compliance-validat
 - **InclusiveNet** — Framework to Personalise Mobility Solutions for Vulnerable Road Users
   [tsi.lv/projects/inclusivenet-framework-to-personalize-mobility-solutions-for-vulnerable-road-users/](https://tsi.lv/projects/inclusivenet-framework-to-personalize-mobility-solutions-for-vulnerable-road-users/)
 
-
 - **Extraction of Empty Container Repositioning Rules from a Reinforcement Learning Policy**
   K. Lohina, D. Pavlyuk — presented at TRA-2026
 
